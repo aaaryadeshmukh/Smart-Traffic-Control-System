@@ -14,8 +14,3 @@ This system uses a combination of deep learning models and computer vision to an
 * **Dynamic Signal Control:** The model's output is used to dynamically adjust traffic signal timings, reducing unnecessary waiting and congestion.
 * **Edge Computing Integration:** Designed for low-latency decision-making by processing data at the intersection level.
 
-## 4. How to Run This Project
-*(Add clear, step-by-step instructions here on how someone could clone your repo and run the code. Include any necessary installations or setup.)*
-
-## 5. Sample Results
-*(If you have any, add a screenshot of your system in action, a graph showing reduced wait times, or a GIF of the simulation.)*
