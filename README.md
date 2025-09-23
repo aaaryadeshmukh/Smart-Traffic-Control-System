@@ -3,7 +3,7 @@
 ## 1. The Problem
 Traffic congestion is a major problem in urban areas, leading to increased travel time, fuel consumption, and carbon emissions. This project aims to build an intelligent traffic management system that dynamically adjusts signal timings based on real-time traffic data to improve flow and safety.
 
-## 2. Our Solution
+## 2. Proposed Solution
 This system uses a combination of deep learning models and computer vision to analyze live video feeds from traffic cameras and predict future traffic patterns.
 
 * **Tech Stack:** Python, TensorFlow, PyTorch, OpenCV, Edge Computing
